@@ -23,18 +23,19 @@ The dashboard includes interactive filters, allowing you to slice the data based
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bike-sales-dashboard.git
+   git clone https://github.com/whearne/Bike-Sales-Excel.git
 2. Ensure you have a compatible version of Microsoft Excel to view and interact with the dashboard.
    
 ## Usage
 
-- Open the Bike_Sales_Dashboard.xlsx file in Excel.
+- Open the Excel Bike Sales Project Dataset + Dashboard.xlsx file in Excel.
 - Use the filters on the left to adjust the data display.
 - The charts will automatically update based on the selected filters, giving you dynamic insights into bike sales.
 
 ## Project Files
 
-- Bike_Sales_Dashboard.xlsx: The main Excel file containing the dataset, pivot tables, and the dashboard.
+- Bike Sales Screenshot.PNG: A Screenshot of the dashboard
+- Excel Bike Sales Project Dataset + Dashboard.xlsx: The main Excel file containing the dataset, pivot tables, and the dashboard.
 - README.md: Documentation for the project.
   
 ## Insights from the Dashboard
