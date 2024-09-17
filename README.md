@@ -16,7 +16,7 @@ The Bike Sales Dashboard offers insights into:
 The dashboard includes interactive filters, allowing you to slice the data based on:
 
 - **Marital Status**: Filter between married and single customers.
-- **Region**: Analyze bike sales in Europe, North America, or the Pacific.
+- **Region**: Analyse bike sales in Europe, North America, or the Pacific.
 - **Education**: Segment data based on customers' education levels (Bachelors, Graduate Degree, High School, Partial College, and Partial High School).
 
 ## Installation
